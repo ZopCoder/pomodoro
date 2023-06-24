@@ -4,3 +4,5 @@ A node js pomodoro
 Ayo from freshman.tech
 # Info
 Some small changes have been made as per my understanding of the source and logic.
+# Update
+Set up done on Local PC
